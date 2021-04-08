@@ -190,8 +190,8 @@ hr {
 
 footer {
   width:270px;
-  float:left;
-  position:fixed;
+  float:right; // MRC - old left
+  //MRC position:fixed;
   bottom:5px; // MRC - old 50px
   -webkit-font-smoothing:subpixel-antialiased;
 }
