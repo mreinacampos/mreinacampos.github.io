@@ -1,0 +1,16 @@
+#  The contact options.
+-
+  type: github
+  icon: 'fab fa-github-alt'
+-
+  type: email
+  icon: 'fas fa-envelope'
+  noblank: true            # open link in current tab
+-
+  type: researchgate
+  icon: 'fab fa-researchgate'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.researchgate.net/profile/Marta_Reina-Campos'
+-
+  type: publons
+  icon: 'fa fa-sticky-note'   # icons powered by <https://fontawesome.com/>
+  url:  'https://publons.com/researcher/4303214/marta-reina-campos/'

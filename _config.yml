@@ -1,6 +1,18 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+# Set global variables
+title: Marta <br>Reina-Campos                         # the main title
+logo: /assets/img/2020-MRC.png                        # image on the left column
+description:  The minimal personal website <br>of Marta Reina-Campos.
 google_analytics:
 theme: jekyll-theme-minimal
+
+# github variables
+github:
+  username: mreinacampos             # change to your github username
+  is_user_page: true
+
+social:
+  name: Marta Reina-Campos                 # it will shows as the copyright owner in Footer
+  email: reinacampos@mcmaster.ca             # change to your email address
+  links:
+    # The first element serves as the copyright owner's link
+    - https://github.com/mreinacampos       # change to your github homepage
